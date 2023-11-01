@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">761901437841-i8omiofeb96ke5dju7gsq29gphbd7hk8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">761901437841</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7CL1sUb33tHL3ak9bZI7_4rjT4GlPE54</string>
+    <string name="google_app_id" translatable="false">1:761901437841:android:b561f59eae2d99621ac030</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7CL1sUb33tHL3ak9bZI7_4rjT4GlPE54</string>
+    <string name="google_storage_bucket" translatable="false">crep-coffee.appspot.com</string>
+    <string name="project_id" translatable="false">crep-coffee</string>
+</resources>
